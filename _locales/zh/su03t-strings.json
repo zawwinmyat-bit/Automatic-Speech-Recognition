@@ -1,12 +1,12 @@
 {
-    "su03t|block": "SU-03T語音辨識",
-    "su03t.floatCommand.command06|block":"整數",
-    "su03t.floatCommand.command07|block":"小數",
-    "su03t.su03tSetSerial|block": "SU-03T初始化|B6連接到 %pinTX|B7連接到 %pinRX",
-    "su03t.su03tEvent|block": "SU-03T當聽到語音指令時",
-    "su03t.su03tCommandList|block": "聽到語音指令%myCommand？",
-    "su03t.su03tSpeakSomething|block": "SU-03T傳送數字到晶片並唸出%myCommand|數值(整數)%myNum",
-    "su03t.su03tSpeakFloat|block": "SU-03T傳送數字到晶片並唸出%myCommand|數值%myNum",
-    "su03t.su03tSystemCommand|block": "SU-03T執行系統指令%myCommand",
-    "su03t.su03tPreCommand|block": "SU-03T晶片唸出%myCommand"
+     "su03t|block": "SU-03T speech recognition",
+     "su03t.floatCommand.command06|block":"integer",
+     "su03t.floatCommand.command07|block":"Decimal",
+     "su03t.su03tSetSerial|block": "SU-03T initialization|B6 connected to %pinTX|B7 connected to %pinRX",
+     "su03t.su03tEvent|block": "SU-03T when hearing voice commands",
+     "su03t.su03tCommandList|block": "Hear the voice command %myCommand?",
+     "su03t.su03tSpeakSomething|block": "SU-03T transmits the number to the chip and speaks %myCommand|Number (integer)%myNum",
+     "su03t.su03tSpeakFloat|block": "SU-03T transmits numbers to the chip and speaks %myCommand|value%myNum",
+     "su03t.su03tSystemCommand|block": "SU-03T executes system command %myCommand",
+     "su03t.su03tPreCommand|block": "SU-03T chip reads %myCommand"
 }
