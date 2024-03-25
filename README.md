@@ -1,11 +1,11 @@
-# SU-03T
+#SU-03T
 
-這是專為micro:bit提供的SU-03T語音辨識積木
+This is the SU-03T speech recognition building block specially provided for micro:bit
 
 ## License
 
-* MIT
-* 作者：劉正吉
+*MIT
+* Author: Liu Zhengji
 * author: Liou, Jeng-Jyi
 * https://sites.google.com/jes.mlc.edu.tw/ljj/
 * The package was designed for the module SU-03T ASR to connect micro:bit in makecode.
